@@ -1,0 +1,9 @@
+.dox{
+	width: 30%;
+	height: 30%;
+	margin: auto;
+	top:50%;
+	background-image: url('../image/img22.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
